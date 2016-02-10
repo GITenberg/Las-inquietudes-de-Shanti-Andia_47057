@@ -1,0 +1,30 @@
+_repo: Las-inquietudes-de-Shanti-Andia_47057
+creator:
+  author:
+    agent_name: Baroja, Pío
+    aliases:
+    - Nessi, Pío Baroja y
+    - Baroja, Pio
+    birthdate: 1872
+    deathdate: 1956
+    gutenberg_agent_id: '2669'
+    url: http://www.gutenberg.org/2009/agents/2669
+    wikipedia:
+    - http://en.wikipedia.org/wiki/P%C3%ADo_Baroja
+    - http://es.wikipedia.org/wiki/Pío_Baroja
+description: See also PG#12848
+gutenberg_issued: '2014-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47057'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Sea stories'
+- !lcsh 'Ship captains -- Fiction'
+- !lcsh 'Slave trade -- Fiction'
+title: Las inquietudes de Shanti Andía
+url: http://www.gutenberg.org/ebooks/47057
